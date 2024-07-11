@@ -155,6 +155,7 @@ alias kgpvcw='kgpvc --watch'
 alias kepvc='kubectl edit pvc'
 alias kdpvc='kubectl describe pvc'
 alias kdelpvc='kubectl delete pvc'
+alias kgpv='kubectl get pv'
 
 # Service account management.
 alias kdsa="kubectl describe sa"
